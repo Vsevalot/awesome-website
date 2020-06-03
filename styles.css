@@ -1,0 +1,8 @@
+.nav-link-wrapper a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.nav-link-wrapper :hover{
+    color: red;
+}
