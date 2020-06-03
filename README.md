@@ -2,11 +2,11 @@
 
 ## Уральская парфюмерная компания
 
-![Logo not found](https://github.com/Vsevalot/awesome-website/blob/master/images/logo.png "Здесь будет логотип Уральская парфюмерная компания")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Здесь будет логотип Уральская парфюмерная компания](https://github.com/Vsevalot/awesome-website/blob/master/images/logo.png "Уральская парфюмерная компания")
 
 Repository for an online ... showcase? Idk.
-Definitely not a shop because there is no basket and payment, just goods and prices.
+
+Definitely not a store because there is no basket and payment, just goods and prices.
 
 - HTML
 - CSS
