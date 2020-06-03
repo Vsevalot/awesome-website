@@ -2,7 +2,7 @@
 
 ## Уральская парфюмерная компания
 
-![Logo not found :(](https://github.com/Vsevalot/awesome-website/tree/master/images/logo.jpg 'Здесь будет логотип "Уральская парфюмерная компания"')
+![Logo not found :(](https://github.com/Vsevalot/awesome-website/tree/master/images/logo.png 'Здесь будет логотип "Уральская парфюмерная компания"')
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Repository for an online ... showcase? Idk.
